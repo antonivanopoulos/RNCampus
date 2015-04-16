@@ -4,7 +4,7 @@
 
 You need Node.
 
-[facebook.github.io/react-native/docs/getting-started.html#content](Getting Start with React Native)
+[http://facebook.github.io/react-native/docs/getting-started.html#content](Getting Start with React Native)
 
 ## Getting Started
 
