@@ -4,11 +4,14 @@
 
 You need Node.
 
-facebook.github.io/react-native/docs/getting-started.html#content
+[facebook.github.io/react-native/docs/getting-started.html#content](Getting Start with React Native)
 
 ## Getting Started
 
-`cd ReactNativeCampus`
-`npm install`
+```
+cd RNCampus
+npm install
+open ReactNativeCampus.xcodeproj
+```
 
 Then open the Xcode project.
